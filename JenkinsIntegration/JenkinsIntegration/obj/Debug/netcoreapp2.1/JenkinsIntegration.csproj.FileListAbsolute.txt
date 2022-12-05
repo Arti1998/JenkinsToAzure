@@ -32,7 +32,6 @@ C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegratio
 C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\bin\Debug\netcoreapp2.1\JenkinsIntegration.Views.pdb
 C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
 C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
-C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.csprojAssemblyReference.cache
 C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.csproj.CoreCompileInputs.cache
 C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.RazorAssemblyInfo.cache
 C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.RazorAssemblyInfo.cs
@@ -48,3 +47,4 @@ C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegratio
 C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.csproj.CopyComplete
 C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.dll
 C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.pdb
+C:\code\Getting-Started-With-Jenkins-master\JenkinsIntegration\JenkinsIntegration\obj\Debug\netcoreapp2.1\JenkinsIntegration.csproj.AssemblyReference.cache
